@@ -4,7 +4,7 @@
 
 Este é um programa Java desenvolvido para calcular as raízes de uma equação quadrática utilizando a fórmula de Bhaskara. A refatoração do codigo conforme sugerido pelo Professor Rocha, incorporando diversas melhorias.
 
-## Funcionalidades Adicionadas pelo Professor Rocha
+## Funcionalidades Sugeridas pelo Professor Rocha
 
 - Tratamento de exceções para entradas inválidas.
 - Criação de constantes para mensagens conhecidas.
